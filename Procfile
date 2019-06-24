@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT think_tank_5148.wsgi:application
